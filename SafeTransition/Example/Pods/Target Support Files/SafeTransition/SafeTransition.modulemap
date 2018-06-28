@@ -1,0 +1,6 @@
+framework module SafeTransition {
+  umbrella header "SafeTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}

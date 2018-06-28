@@ -1,0 +1,16 @@
+PODS:
+  - SafeTransition (0.1.0)
+
+DEPENDENCIES:
+  - SafeTransition (from `../`)
+
+EXTERNAL SOURCES:
+  SafeTransition:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SafeTransition: 99501d0273560a37b867d84248aa59f1b3b481b4
+
+PODFILE CHECKSUM: 8d609f819a4066af8fab339dc9a025f3d366deba
+
+COCOAPODS: 1.5.3

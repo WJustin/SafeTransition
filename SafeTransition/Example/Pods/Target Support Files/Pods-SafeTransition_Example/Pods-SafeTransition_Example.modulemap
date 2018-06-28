@@ -1,0 +1,6 @@
+framework module Pods_SafeTransition_Example {
+  umbrella header "Pods-SafeTransition_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

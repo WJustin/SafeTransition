@@ -1,0 +1,22 @@
+{
+  "name": "SafeTransition",
+  "version": "0.1.0",
+  "summary": "A short description of SafeTransition.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Justin.wang/SafeTransition",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Justin.wang": "wangrongchao@126.com"
+  },
+  "source": {
+    "git": "https://github.com/WJustin/SafeTransition.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SafeTransition/Classes/**/*"
+}

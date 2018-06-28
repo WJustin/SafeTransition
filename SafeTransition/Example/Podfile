@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SafeTransition_Example' do
+  pod 'SafeTransition', :path => '../'
+
+  target 'SafeTransition_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
